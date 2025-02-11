@@ -1,0 +1,9 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "lib/jcalendar-1.4.jar",
+        "ATM/lib/jcalendar-1.4.jar",
+        "Bank_management_system/lib/jcalendar-1.4.jar",
+        "Bank_management_system/lib/mysql-connector-j-9.2.0.jar"
+    ]
+}
